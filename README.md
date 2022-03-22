@@ -2,11 +2,23 @@
 
 My notes on Go (YMMV)
 
+## Serialisation and Deserialisation
+
+#### Native (all Go)
+
+#### JSON
+
 ## Microservices
 
 ### Code Led
 
 ### Interface Led
+
+#### OpenAPI
+
+#### gRPC
+
+#### GraphQL
 
 ### Design Led
 
