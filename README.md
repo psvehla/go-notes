@@ -29,3 +29,7 @@ My notes on Go (YMMV)
 ##### goa
 
 ##### Go kit
+
+## Authorisation
+
+Worth exploring: [Casbin](https://github.com/casbin/casbin)
