@@ -6,6 +6,8 @@ My notes on Go (YMMV)
 
 #### Native (all Go)
 
+Worth exploring: [GORM](https://gorm.io/index.html)
+
 #### JSON
 
 ## Microservices
