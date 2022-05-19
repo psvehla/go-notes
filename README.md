@@ -17,6 +17,7 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 ### Interface Led
 
 #### OpenAPI
+[OpenAPI server generators](https://openapi-generator.tech/docs/generators) are available for net/http, Gin and Echo.
 
 #### gRPC
 
