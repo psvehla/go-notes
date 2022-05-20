@@ -33,7 +33,7 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 ### Design Led
 
-[goa](https://goa.design/) takes another approach: what they call 'design led'. The philosophy here is similar to Interface Led microservice builds, yet instead of defining the interface first, the interface design is expressed in a goa specific DSL. The interfaces themselved are then generated from the DSL (e.g. [OpenAPI](https://goa.design/v1/reference/goa/codegen/generator/), gRPC). Microservice code can also be generated from the DSL. Plugins provide control over how the code is generated. The most promising one appears to be goakit, which generates [Go kit](https://gokit.io/) compliant services.
+[goa](https://goa.design/) takes another approach: what they call 'design led'. The philosophy here is similar to Interface Led microservice builds, yet instead of defining the interface first, the interface design is expressed in a goa specific DSL. The interfaces themselved are then generated from the DSL (e.g. [OpenAPI](https://goa.design/v1/reference/goa/codegen/generator/), gRPC). Microservice code can also be generated from the DSL. Plugins provide control over how the code is generated. The most promising one appears to be [goakit](https://github.com/goadesign/plugins/tree/v3/goakit), which generates [Go kit](https://gokit.io/) compliant services.
 
 #### Goa with goakit
 
