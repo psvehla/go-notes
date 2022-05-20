@@ -47,8 +47,6 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 #### Worth Exploring
 
-##### goa
-
 ##### Go kit
 
 ## Authorisation
