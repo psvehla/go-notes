@@ -23,6 +23,12 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 ##### go-server
 
+- No fuss code generation.
+- Generated code doesn't always build, but the problems are super easy to fix.
+- Generated code is clear, simple and easy to reason about.
+- How to proceed after generating the code is well documented *in the code*.
+- Dockerfile included.
+
 ##### go-gin-server
 
 ##### go-echo-server
