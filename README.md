@@ -30,9 +30,17 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 - Generated code doesn't always build, but the problems are super easy to fix.
 - Generated code is clear, simple and easy to reason about.
 - How to proceed after generating the code is well documented *in the code*.
-- Dockerfile included.
+- Dockerfile included, though it needs updating.
+- Unimplemented routes behave well, with correct return codes and a helpful message.
 
 ##### go-gin-server
+
+- No fuss code generation.
+- Generated code doesn't always build, but the problems are easy to fix.
+- Generated code is clear, simple and easy to reason about.
+- Dockerfile included, though it needs updating.
+- Unimplemented routes return with 200 and an empty JSON.
+- Great doco, lots of examples on how to do various things.
 
 ##### go-echo-server
 
