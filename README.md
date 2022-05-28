@@ -35,6 +35,8 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 ##### go-gin-server
 
+[A hello service.](https://github.com/psvehla/hello-gin)
+
 - No fuss code generation.
 - Generated code doesn't always build, but the problems are easy to fix.
 - Generated code is clear, simple and easy to reason about.
