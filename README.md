@@ -46,6 +46,16 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 ##### go-echo-server
 
+[A hello service.](https://github.com/psvehla/hello-echo)
+
+- No fuss code generation.
+- Generated code doesn't always build, but the problems are easy to fix.
+- Generated code is clear, simple and easy to reason about.
+- Dockerfile included, though it needs updating.
+- Unimplemented routes return with 200 and a 'Hello World' message.
+- Great doco, lots of examples on how to do various things.
+- Includes a mechanism for injecting dependencies.
+
 #### gRPC
 
 #### GraphQL
