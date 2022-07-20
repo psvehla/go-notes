@@ -78,6 +78,12 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 ##### Go kit
 
+#### Other Players
+
+#### fiber
+
+Seems to tout speed as a prime advantage. No generator available, not net/http compatible.
+
 ## Authorisation
 
 Worth exploring: [Casbin](https://github.com/casbin/casbin)
