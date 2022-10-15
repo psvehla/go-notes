@@ -10,11 +10,11 @@ My notes on Go (YMMV)
 
 ## Serialisation and Deserialisation
 
-#### Native (all Go)
+### Native (all Go)
 
 Worth exploring: [GORM](https://gorm.io/index.html)
 
-#### JSON
+### JSON
 
 `encoding/json`
 
@@ -96,5 +96,5 @@ Seems to tout speed as a prime advantage. No generator available, not net/http c
 
 ## Authorisation
 
-Worth exploring: [Casbin](https://github.com/casbin/casbin)<br>
+Worth exploring: [Casbin](https://github.com/casbin/casbin)
 Worth exploring: [OPA](https://www.openpolicyagent.org/)
