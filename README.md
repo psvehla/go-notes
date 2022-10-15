@@ -24,7 +24,7 @@ Worth exploring: [GORM](https://gorm.io/index.html)
 
 #### Go kit
 
-[Go kit](https://gokit.io/) is a proper, grown up service development framework for developing proper, grown up services. It defines a separation of concerns that allows communication details and business logic to be kept apart. It applies a decorator pattern for this layering, simplifying the insertion of layers for logging, tracing, observability and other such grown up things.
+[Go kit](https://gokit.io/) is a proper, grown up service development framework for developing proper, grown up services. It defines a separation of concerns that allows communication details and business logic to be kept apart. It applies a decorator pattern for this layering, simplifying the insertion of layers for logging, authorisation, tracing, observability and other such grown up things.
 
 I've been quite pleased with the results when using this framework to build services that interfaced with multiple queues (sending and receiving messages) as well as calling other synchronous services. What these services didn't have was a traditional RESTful API. For services that required such an API I used go-echo-server instead, since I was starting with an OpenAPI spec and the generator gave me quite a start. However, I couldn't help feeling that the result was somewhat amateurish compared to the Go kit service.
 
