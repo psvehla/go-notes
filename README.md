@@ -2,6 +2,12 @@
 
 My notes on Go (YMMV)
 
+## Tooling
+
+### Vulnerability Scanning
+
+[govulncheck](https://go.dev/blog/vuln)
+
 ## Serialisation and Deserialisation
 
 #### Native (all Go)
