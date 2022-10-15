@@ -97,4 +97,5 @@ Seems to tout speed as a prime advantage. No generator available, not net/http c
 ## Authorisation
 
 Worth exploring: [Casbin](https://github.com/casbin/casbin)
+
 Worth exploring: [OPA](https://www.openpolicyagent.org/)
