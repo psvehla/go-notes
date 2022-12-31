@@ -4,6 +4,10 @@ My notes on Go (YMMV)
 
 ## Tooling
 
+### Live Reload for Development
+
+[Air](https://github.com/cosmtrek/air)
+
 ### Vulnerability Scanning
 
 [govulncheck](https://go.dev/blog/vuln)
