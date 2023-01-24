@@ -6,11 +6,11 @@ My notes on Go (YMMV)
 
 ### Live Reload for Development
 
-[Air](https://github.com/cosmtrek/air)
+Worth exploring: [Air](https://github.com/cosmtrek/air)
 
 ### Vulnerability Scanning
 
-[govulncheck](https://go.dev/blog/vuln)
+Worth exploring: [govulncheck](https://go.dev/blog/vuln)
 
 ## Serialisation and Deserialisation
 
